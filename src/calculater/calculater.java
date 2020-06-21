@@ -10,7 +10,7 @@ package calculater;
  * @author My Plus
  */
 public class calculater extends javax.swing.JFrame {
-
+//
     double firstnumber;
     double secondnumber;
     double result;
